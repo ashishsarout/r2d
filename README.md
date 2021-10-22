@@ -33,7 +33,7 @@ In other words, if your application can run in Heroku, it is always possible to 
 # Quick Start Instructions
 ### Downlaod the Latest t2d Script
 ```
-wget https://raw.githubusercontent.com/devonecommunity/r2d/master/whip-dokku.sh
+wget https://raw.githubusercontent.com/ashishsarout/r2d/master/whip-dokku.sh
 ```
 ### Execute it in root
 ```
